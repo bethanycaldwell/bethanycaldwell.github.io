@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Researcher @ <a href='https://about.uq.edu.au/experts/54114'> University of Queensland</a>, School of Mathematics and Physics.
+subtitle: <a Postdoctoral Researcher @ href='https://about.uq.edu.au/experts/54114'> University of Queensland</a>. School of Mathematics and Physics.
 
 profile:
   align: right
