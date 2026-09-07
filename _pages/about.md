@@ -6,7 +6,7 @@ subtitle: Postdoctoral Researcher @ <a href='https://about.uq.edu.au/experts/541
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: untitled2.jpg
   image_circular: false # crops the image to make it circular
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
